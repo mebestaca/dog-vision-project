@@ -28,5 +28,3 @@ Some information about the data:
  * There are 120 breeds of dogs (this means there are 120 different classes)
  * There are around 10,000+ images in the training set (these images have labels)
  * There are around 10,000+ images in the test set (these images have no labels, because we'll want to predict them)
-
-**Additional Note:** This project was done with the help of a machine learning tutorial found at https://zerotomastery.io/
